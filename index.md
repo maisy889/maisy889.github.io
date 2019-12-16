@@ -1,5 +1,5 @@
 ---
-<title> Agent Based Modelling </title>
+title: Agent Based Modelling
 ---
 
 
